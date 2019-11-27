@@ -1,6 +1,6 @@
-# spring-boot-starter-shiro-xdocreport
+# xdocreport-spring-boot-starter
 
-Spring Boot Starter For Shiro With Owasp Csrfguard
+Spring Boot Starter For xdocreport
 
 
 https://github.com/hucheng91/freemarker_xdoxreport
