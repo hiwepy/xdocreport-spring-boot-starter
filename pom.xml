@@ -788,23 +788,23 @@
 			    <groupId>fr.opensagres.xdocreport</groupId>
 			    <artifactId>fr.opensagres.poi.xwpf.converter.pdf</artifactId>
 			</dependency>
-			<dependency>
+			<!-- <dependency>
 				<groupId>fr.opensagres.xdocreport</groupId>
 				<artifactId>org.apache.poi.xwpf.converter.pdf.itext5</artifactId>
 			</dependency>
 			<dependency>
 				<groupId>fr.opensagres.xdocreport</groupId>
 				<artifactId>org.apache.poi.xwpf.converter.pdf-gae</artifactId>
-			</dependency>
+			</dependency> -->
 			<!-- https://mvnrepository.com/artifact/fr.opensagres.xdocreport/fr.opensagres.poi.xwpf.converter.xhtml -->
 			<dependency>
 			    <groupId>fr.opensagres.xdocreport</groupId>
 			    <artifactId>fr.opensagres.poi.xwpf.converter.xhtml</artifactId>
 			</dependency>
-			<dependency>
+			<!-- <dependency>
 				<groupId>fr.opensagres.xdocreport</groupId>
 				<artifactId>org.apache.poi.xwpf.converter.xhtml-gae</artifactId>
-			</dependency>
+			</dependency> -->
 			
 			<!-- itext -->
 			
